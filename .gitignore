@@ -1,0 +1,25 @@
+# Logs
+*.log
+
+# OS files
+Thumbs.db
+.DS_Store
+
+# SQL Server temp
+*.ldf
+*.mdf
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+bin/
+obj/
+
+# IDE
+.vs/
+*.suo
+*.user
+*.sln.docstates
+
+# Screenshots are binary, but we keep them for report
+# screenshots/
